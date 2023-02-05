@@ -85,7 +85,7 @@ f(x) = -12*x**4*sin(cos(x)) - 18*x**3+5*x**2 + 10*x - 30
 
 ---
 
-:point_right: [Перейти к решению]( "Открыть")
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_03.02.2023-Python/blob/main/Task_1.py "Открыть")
 
 ---
 
